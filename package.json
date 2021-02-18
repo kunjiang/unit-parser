@@ -1,0 +1,20 @@
+{
+  "name": "unit-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "unit",
+    "convert",
+    "configure"
+  ],
+  "author": "jk@jklib.org",
+  "homepage": "https://github.com/kunjiang/unit-parser",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
